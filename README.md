@@ -1,2 +1,2 @@
-# lab-payroll-enterprise
-Organização padrão enterprise
+# Lab-Payroll-Enterprise
+Projeto completo com Docker, Kubernetes e métricas.
